@@ -1,10 +1,7 @@
 *.o
-*.c
-*.h
 *.png
 *.txt
 benchmarks
-Makefile
 misc.pl
 *.nfs*
 mydlx
